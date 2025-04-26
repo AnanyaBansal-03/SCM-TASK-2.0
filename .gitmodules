@@ -1,0 +1,3 @@
+[submodule "submodules/SCM-PRACTICE"]
+	path = submodules/SCM-PRACTICE
+	url = https://github.com/AnanyaBansal-03/SCM-PRACTICE.git
